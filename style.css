@@ -40,20 +40,6 @@ h2 {
     border-radius: 10px;
 }
 
-/* .price-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
-
-.price {
-    text-align: left;
-}
-
-.button-align {
-    align-items: end;
-}
-
 .details {
     text-align: left;
     margin-left: 10px;
